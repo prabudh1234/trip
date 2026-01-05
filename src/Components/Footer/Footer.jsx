@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import "./footer.css";
 
 import { FiSend } from "react-icons/fi";
-import { MdTravelExplore } from "react-icons/md";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { AiFillYoutube } from "react-icons/ai";
 import { AiFillInstagram } from "react-icons/ai";
